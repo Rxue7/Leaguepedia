@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Background, Header, ChampionContainer, SearchBar, SearchBox, AlphaBar } from './styles';
-import logo from "../assets/images/leagueify.png";
+import logo from "../assets/images/leaguepedia.png";
 import { championData } from '../data/data';
 import Cards from '../subcomponents/Cards';
 
